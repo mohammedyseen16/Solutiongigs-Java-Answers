@@ -2,12 +2,11 @@ public class solutiongigs {
 
   public static void main(String[] args) {
 
-    int l = 2;
-    int h = 3;
+    int l = 2;           // 1st unit length
+    int h = 3;          //  2nd unit height
     int Area = l * h;
     
     System.out.println("Area of the Rectangle is:" + Area);
-   
        
   }
 
