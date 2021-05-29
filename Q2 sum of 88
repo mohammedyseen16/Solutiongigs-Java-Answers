@@ -1,0 +1,12 @@
+public class solutiongigs {
+
+  public static void main(String[] args) {
+
+    int n = 88;
+    int sum1 = 88 * 88;            // square of 88
+    int sum2 = sum1 + 100;        // adding 100 to the previous sum
+    int sum3 = sum2/2;           // dividing by half
+    System.out.println(sum3);   // printing the final answer
+  }
+
+}
